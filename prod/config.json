@@ -1,0 +1,12 @@
+{
+    "ENV": "prod",
+    "LIVEKIT_URL": "wss://romona-6bel4k6d.livekit.cloud",
+    "LIVEKIT_API_KEY": "APIKwLKLnuhYkUh",
+    "LIVEKIT_API_SECRET": "260NjcLYk9qA1DunWAX1OaYMrHImcJRC5ob2dAaB0fI",
+    "PINECONE_API_KEY": "NF-4rX8gpXypwSltvFTEkpRvInLAIy5eJzD",
+    "OPENAI_API_KEY": "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",
+    "ZEP_API_KEY": "z_1dWlkIjoiMjg0OTMyNGMtMWExNS00NjdjLWFiYmMtYzMxZDk1NGY2YTRiIn0.cJUwROj0cC8X5TqgjNHjmfQO8yk-qJsPJEn6dysJCG0CaBJz1qmBuhrgqLUIf5Y2W6n3cuE6dsP1k2R6aubVyw",
+    "QDRANT_URL": "http://localhost:6333",
+    "DB_PATH": "data/prompts.db",
+    "AGENT_TYPE": "voice_pipeline"
+}
